@@ -1,4 +1,5 @@
 # OOL-SimSig-Electron
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B723X31)
 Electron app for ROC. Put here so people can view the source for themselves.
 
 How to build:
